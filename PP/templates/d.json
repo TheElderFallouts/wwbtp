@@ -399,6 +399,14 @@
         "height": 1024,
         "sectors": false
     },
+    "amaryllisverse_cmc":{
+        "name": "amaryllisverse_cmc.png",
+        "x": -26713,
+        "y": -20814,
+        "width": 1273,
+        "height": 728,
+        "sectors": false
+    },
     "italy":{
         "name": "italy.png",
         "x": 1065,

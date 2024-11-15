@@ -417,10 +417,10 @@
     },
     "serbia":{
         "name": "serbia.png",
-        "x": 3202,
-        "y": -9878,
-        "width": 1015,
-        "height": 1303,
+        "x": 3201,
+        "y": -9890,
+        "width": 1000,
+        "height": 1320,
         "sectors": false
     },
     "hungary":{
@@ -431,7 +431,7 @@
         "height": 1656,
         "sectors": false
     },
-        "thu":{
+    "thu":{
         "name": "thu.png",
         "x": 1798,
         "y": -11404,
@@ -439,7 +439,7 @@
         "height": 431,
         "sectors": false
     },
-        "denmark":{
+    "denmark":{
         "name": "denmark.png",
         "x": 1470,
         "y": -13448,
@@ -447,7 +447,7 @@
         "height": 1248,
         "sectors": false
     },
-        "bosnia":{
+    "bosnia":{
         "name": "bosnia.png",
         "x": 2646,
         "y": -9810,
@@ -455,7 +455,7 @@
         "height": 1048,
         "sectors": false
     },
-        "france":{
+    "france":{
         "name": "france.png",
         "x": 169,
         "y": -11236,

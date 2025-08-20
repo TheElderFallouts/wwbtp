@@ -6,5 +6,13 @@
         "width": 630,
         "height": 444,
         "sectors": false
+    },
+    "2": {
+        "name": "converted_rarpxl_1",
+        "x": 738314,
+        "y": -452976,
+        "width": 97,
+        "height": 124,
+        "sectors": false
     }
 }

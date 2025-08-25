@@ -145,10 +145,10 @@
     },
     "Void_ponyo": {
         "name": "Void_ponyo_d.png",
-        "x": -27608,
-        "y": -29254,
-        "width": 214,
-        "height": 278,
+        "x": -27890,
+        "y": -29485,
+        "width": 500,
+        "height": 513,
         "sectors": false
     },
     "fluttershy_top_left_corner":{

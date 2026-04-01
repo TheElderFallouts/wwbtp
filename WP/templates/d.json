@@ -1,24 +1,24 @@
 {
     "1": {
         "name": "shablon-PW.png",
-        "x": -230173,
-        "y": -248596,
+        "x": -230174,
+        "y": -248597,
         "width": 1210,
         "height": 740,
         "sectors": false
     },
     "2": {
         "name": "converted_rarpxl_1.png",
-        "x": 738315,
-        "y": -452976,
+        "x": 738316,
+        "y": -452977,
         "width": 97,
         "height": 124,
         "sectors": false
     },
     "3": {
         "name": "rWplace.png",
-        "x": 87999,
-        "y": 241999,
+        "x": 88000,
+        "y": 242000,
         "width": 1000,
         "height": 1000,
         "sectors": false

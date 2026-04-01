@@ -1,8 +1,8 @@
 {
     "1": {
         "name": "shablon-PW.png",
-        "x": -230174,
-        "y": -248597,
+        "x": -230172,
+        "y": -248595,
         "width": 1210,
         "height": 740,
         "sectors": false
@@ -10,7 +10,7 @@
     "2": {
         "name": "converted_rarpxl_1.png",
         "x": 738316,
-        "y": -452977,
+        "y": -452975,
         "width": 97,
         "height": 124,
         "sectors": false

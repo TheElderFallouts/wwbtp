@@ -14,5 +14,13 @@
         "width": 97,
         "height": 124,
         "sectors": false
+    },
+    "3": {
+        "name": "rWplace",
+        "x": 87999,
+        "y": 241999,
+        "width": 1000,
+        "height": 1000,
+        "sectors": false
     }
 }

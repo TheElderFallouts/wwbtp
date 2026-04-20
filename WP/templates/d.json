@@ -22,5 +22,18 @@
         "width": 2000,
         "height": 2000,
         "sectors": false
+    },
+    "4": {
+        "name": "russian_ponies_protection.png",
+        "x": 221680,
+        "y": -287459,
+        "width": 333,
+        "height": 1045,
+        "sectors": false
     }
+
+
+
+
+
 }

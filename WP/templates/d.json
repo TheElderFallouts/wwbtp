@@ -30,10 +30,21 @@
         "width": 333,
         "height": 1045,
         "sectors": false
+    },
+    "5": {
+        "name": "converted_1000055416_5",
+        "x": 171450,
+        "y": -347999,
+        "width": 502,
+        "height": 283,
+        "sectors": false
+    },
+    "6": {
+        "name": "naytmer",
+        "x": 167572,
+        "y": -344700,
+        "width": 1589,
+        "height": 1250,
+        "sectors": false
     }
-
-
-
-
-
 }

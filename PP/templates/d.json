@@ -81,10 +81,10 @@
     },
     "North_ponies": {
         "name": "north_d.png",
-        "x": 869,
-        "y": -14935,
-        "width": 351,
-        "height": 628,
+        "x": 751,
+        "y": -14798,
+        "width": 539,
+        "height": 713,
         "sectors": false
     },
     "PieTwi_d": {
